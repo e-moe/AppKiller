@@ -16,11 +16,11 @@ Just run this command:
 
 ## License ##
 
-This program comes with ABSOLUTELY NO WARRANTY.
-This is free software, and you are welcome to redistribute it
+This program comes with ABSOLUTELY NO WARRANTY.  
+This is free software, and you are welcome to redistribute it  
 under certain conditions; read GPL-LICENSE.txt for details.
 
 ## Copyright ##
 
-2007 &copy; [Nikolay Labinskiy](http://www.labinskiy.org.ua/ "Russian language") aka e-moe
+2007 &copy; [Nikolay Labinskiy](http://www.labinskiy.org.ua/ "Russian language") aka e-moe  
 email: e-moe@ukr.net
