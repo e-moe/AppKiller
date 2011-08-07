@@ -1,6 +1,7 @@
 # AppKiller #
 
 AppKiller ver 0.7, Freeware social edition. (FASM build)
+
 * Hotkey: Win+Backspace (Kill Active window)
 * Hotkey: Ctrl+Alt+Backspace (Kill window under cursor/mice)
 
