@@ -1,4 +1,4 @@
-# AppKiller #
+# AppKiller - Hotkey active window killer #
 
 ## About ##
 
@@ -10,18 +10,15 @@ AppKiller ver 0.7, Freeware social edition. (FASM build)
 ## How to build ##
 
 To build *AppKiller* you need [Flat assembler (FASM)](http://flatassembler.net/).
+Just run this command:
 
-	just run: fasm AppKiller.asm
-
----
+	fasm AppKiller.asm
 
 ## License ##
 
 This program comes with ABSOLUTELY NO WARRANTY.
 This is free software, and you are welcome to redistribute it
 under certain conditions; read GPL-LICENSE.txt for details.
-
----
 
 ## Copyright ##
 
