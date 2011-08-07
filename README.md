@@ -9,7 +9,7 @@ AppKiller ver 0.7, Freeware social edition. (FASM build)
 
 ## How to build ##
 
-To build *AppKiller* you need [Flat assembler (FASM)](http://flatassembler.net/).
+To build *AppKiller* you need [Flat assembler (FASM)](http://flatassembler.net/).  
 Just run this command:
 
 	fasm AppKiller.asm
